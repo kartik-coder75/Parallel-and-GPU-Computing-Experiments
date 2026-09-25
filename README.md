@@ -1,7 +1,5 @@
 # Parallel-and-GPU-Computing-Experiments
 Lab Experiments
-# Parallel and GPU Computing Experiments
-
 ## Experiment 1: Matrix Multiplication using Sequential, OpenMP, MPI and CUDA
 
 This experiment implements a **4000 × 4000 matrix multiplication** using four different computing models:
